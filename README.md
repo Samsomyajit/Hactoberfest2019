@@ -61,4 +61,7 @@ Hacktoberfest Classroom Project 2019
 [DRsterbenKYS666oof](https://github.com/DRsterbenKYS666oof/)
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
-
+### Sam
+[Samsomyajit](https://github.com/Samsomyajit/)
+> I don't need girls, I flirt with code...
+---
